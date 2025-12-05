@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Game",
+  "description": "A sleek, dark-themed quiz application powered by Gemini 2.5 Flash to generate dynamic questions on any topic.",
+  "requestFramePermissions": []
+}
